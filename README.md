@@ -1,3 +1,9 @@
+Use this template to create Chrome Extension using React and TyepScript.
+
+Webpack configured.
+
+Created with Create React App.
+
 # To test the extension
 
 To load your extension into Chrome, open Chrome and navigate to the Extensions page by typing `chrome://extensions` into the address bar. Then, click the "Load unpacked" button and select the dist directory in your project.
